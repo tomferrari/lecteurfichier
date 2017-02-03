@@ -18,9 +18,8 @@ public class Main {
         Palindrome palindrome = new Palindrome("/Users/Thomas/Desktop/test.rtf");
         lecture.ouvrir();
         lecture.afficher();
-        
-        palindrome.ouvrir();
-        palindrome.afficher();
+        //palindrome.ouvrir();
+        //palindrome.afficher();
 
     }
     
